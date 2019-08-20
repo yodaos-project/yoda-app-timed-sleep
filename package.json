@@ -1,5 +1,5 @@
 {
-  "name": "@yoda/timed-sleep",
+  "name": "timed-sleep",
   "version": "1.0.0",
   "description": "Timed sleep to manage power.",
   "main": "app.js",
